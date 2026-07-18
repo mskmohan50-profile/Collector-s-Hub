@@ -5,12 +5,8 @@ A responsive marketplace and community feed app for browsing listings (Bikes, Ca
 ## Setup Instructions
 
 ```bash
-npm install       # install dependencies
-npm run dev        # start dev server → http://localhost:5173
-npm run build       # production build
-npm run preview      # preview production build
-npm run lint          # lint
-npm run typecheck      # type-check
+npm install      
+npm run dev      
 ```
 ## Assumptions Made
 
