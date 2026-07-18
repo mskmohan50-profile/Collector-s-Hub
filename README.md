@@ -12,10 +12,6 @@ npm run preview      # preview production build
 npm run lint          # lint
 npm run typecheck      # type-check
 ```
-
-No `.env`, database, or backend setup needed — the app runs entirely on mock data in `src/data.ts`. Product images are already included under `public/images/{category}/`.
-
-
 ## Assumptions Made
 
 - No backend/database — all data (listings, posts, comments, likes) is static mock data. `@supabase/supabase-js` is listed in `package.json` but unused in code.
